@@ -1,0 +1,61 @@
+
+#forfont{
+  font-family: 'Bangers', cursive;
+}
+.div1{
+  background-color: #f3d1f4;
+  padding: 100px;
+  text-align: center;
+  padding-top: 5px;
+  font-size: :10px;
+
+  padding-bottom: 10px;
+}
+.profile{
+  background-color:  #f3d1f4;
+  text-align: center;
+}
+.juv1{
+  display: inline-block;
+     margin-left: 5px;
+     height: 20%;
+     width: 20%;
+     border-radius: 100%;
+     height: auto;
+     border-style:solid;
+
+}
+
+
+div{
+  background-color:  #f3d1f4;
+}
+.future{
+  text-align: center;
+    height: auto;
+    font-size: 25px;
+}
+
+
+
+h2,h1{
+    font-family: 'Bangers', cursive;
+}
+hr{
+
+  border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 400px;
+}
+.profile{
+  font-size: 25px;
+}
+.note{
+  text-align: center;
+  font-size: 25px;
+
+}
+.contact{
+  text-align: center;
+}
